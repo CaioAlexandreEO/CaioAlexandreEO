@@ -8,7 +8,6 @@
 <div>
   <a href="https//github.com/CaioAlexandreEO">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CaioAlexandreEO&theme=gotham&show_icons=true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAlexandreEO&theme=gotham&hide_progress=true">
   </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Caio-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
